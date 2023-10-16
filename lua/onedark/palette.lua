@@ -1,5 +1,5 @@
 return {
-	dark = {
+	dark324 = {
 		black = "#181a1f",
 		bg0 = "#282c34",
 		bg1 = "#31353f",
@@ -195,7 +195,7 @@ return {
 		diff_change = "#e2ecfb",
 		diff_text = "#cad3e0",
 	},
-	bromium ={
+	dark ={
 		black = "#0a0d11",
 		bg0 = "#101317",
 		bg1 = "#191d22",
