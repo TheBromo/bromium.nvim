@@ -1,5 +1,8 @@
 # Bromium color theme ☢️
 
+![image](https://github.com/TheBromo/bromium.nvim/assets/31920727/c11ee148-8940-49f3-9cf0-674dfad53296)
+
+
 > This color theme is based on [onedark.nvim](https://github.com/navarasu/onedark.nvim) and [nvChads Radium theme](https://github.com/NvChad/base46). 
 
 All documentation is on the template repository [onedark.nvim](https://github.com/navarasu/onedark.nvim)
