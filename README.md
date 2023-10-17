@@ -1,4 +1,4 @@
-# Bromium color theme 
+# Bromium color theme ☢️
 
 > This color theme is based on [onedark.nvim](https://github.com/navarasu/onedark.nvim) and [nvChads Radium theme](https://github.com/NvChad/base46). 
 
